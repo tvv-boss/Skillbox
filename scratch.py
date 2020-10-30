@@ -1,2 +1,6 @@
-sqs = [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
-print(sqs[7:5:-1])
+#filename = input("Enter a filename: ")
+
+with open("C:\\soft\\skillbox\\filename.txt", "r") as f:
+   text = f.read()
+
+print(text)
