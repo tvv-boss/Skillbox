@@ -3,7 +3,7 @@
 #print(cont)
 #file.close()
 #with open("filename.txt", "r") as f:
-f = open("filename.txt", "r")
+f = open("C:\\soft\\skillbox\\filename.txt", "r")
 #for i in file:
 book = f.readlines()
 dlen = len(book)
